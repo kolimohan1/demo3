@@ -1,0 +1,9 @@
+public class Student_Details
+{
+  public static void main(String args []){
+  
+  Student_Details s1=new Student_Details();
+  s1.getStudent();
+  }
+  
+}
